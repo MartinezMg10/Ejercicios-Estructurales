@@ -122,7 +122,7 @@ Examen 90%
 Promedio de tareas 10%
 En esta materia se pidió un total de tres tareas.*/
 
- let examen,notaExamen,notaTarea1,notaTarea2,notaTarea3, promedioDeTareas = 0
+let examen,notaExamen,notaTarea1,notaTarea2,notaTarea3, promedioDeTareas = 0
 
 notaExamen = parseFloat(prompt("Digite la nota del examen de matematicas"))
 examen = notaExamen * 90 / 100
